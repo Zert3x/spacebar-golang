@@ -1,6 +1,6 @@
 <p align="center">
   <img width="486" src="https://raw.githubusercontent.com/spacebarchat/spacebarchat/8e53cf17f9e48aed429d1b932a31b0803a4c0c79/branding/svg/Spacebar__Logo-Blue.svg" />
-  <h1 align="center">Spacebar Server (C#)</h1>
+  <h1 align="center">Spacebar Server (Go)</h1>
 </p>
 
 
